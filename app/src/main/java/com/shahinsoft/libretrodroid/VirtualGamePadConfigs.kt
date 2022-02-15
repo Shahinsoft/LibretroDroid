@@ -1,10 +1,10 @@
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 import android.view.KeyEvent
-import com.swordfish.radialgamepad.library.config.ButtonConfig
-import com.swordfish.radialgamepad.library.config.PrimaryDialConfig
-import com.swordfish.radialgamepad.library.config.RadialGamePadConfig
-import com.swordfish.radialgamepad.library.config.SecondaryDialConfig
+import com.shahinsoft.radialgamepad.library.config.ButtonConfig
+import com.shahinsoft.radialgamepad.library.config.PrimaryDialConfig
+import com.shahinsoft.radialgamepad.library.config.RadialGamePadConfig
+import com.shahinsoft.radialgamepad.library.config.SecondaryDialConfig
 
 object VirtualGamePadConfigs {
     val RETRO_PAD_LEFT =

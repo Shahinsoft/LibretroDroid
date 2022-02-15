@@ -1,5 +1,5 @@
 //
-// Created by swordfish on 18/11/19.
+// Created by shahinsoft on 18/11/19.
 //
 
 #ifndef LIBRETRODROID_SHADERMANAGER_H

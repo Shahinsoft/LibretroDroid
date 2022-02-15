@@ -1,4 +1,4 @@
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 /**
  * Represents a rumble event. Libretro exposes two independently controlled motors. The strength

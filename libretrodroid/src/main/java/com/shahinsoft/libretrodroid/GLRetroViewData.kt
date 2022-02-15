@@ -1,4 +1,4 @@
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 import android.content.Context
 

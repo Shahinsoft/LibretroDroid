@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 import android.os.Bundle
 import android.util.Log
@@ -25,8 +25,8 @@ import android.view.MotionEvent
 import android.widget.FrameLayout
 import androidx.appcompat.app.AppCompatActivity
 import com.android.libretrodroid.R
-import com.swordfish.radialgamepad.library.RadialGamePad
-import com.swordfish.radialgamepad.library.event.Event
+import com.shahinsoft.radialgamepad.library.RadialGamePad
+import com.shahinsoft.radialgamepad.library.event.Event
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 

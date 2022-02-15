@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 import android.os.Handler
 import android.os.Looper

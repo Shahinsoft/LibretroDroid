@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.swordfish.libretrodroid
+package com.shahinsoft.libretrodroid
 
 import android.app.ActivityManager
 import android.content.Context
@@ -31,7 +31,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.OnLifecycleEvent
 import com.jakewharton.rxrelay2.BehaviorRelay
 import com.jakewharton.rxrelay2.PublishRelay
-import com.swordfish.libretrodroid.gamepad.GamepadsManager
+import com.shahinsoft.libretrodroid.gamepad.GamepadsManager
 import io.reactivex.Observable
 import java.util.*
 import javax.microedition.khronos.egl.EGLConfig
