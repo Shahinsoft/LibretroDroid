@@ -1,6 +1,6 @@
 [submodule "libretrodroid/src/main/cpp/oboe"]
 	path = libretrodroid/src/main/cpp/oboe
-	url = https://github.com/google/oboe
+	url = https://github.com/google/oboe.git
 	branch = 1.5-stable
 [submodule "libretrodroid/src/main/cpp/libretro/libretro-common"]
 	path = libretrodroid/src/main/cpp/libretro/libretro-common
