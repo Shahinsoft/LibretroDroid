@@ -4,4 +4,4 @@
 	branch = 1.5-stable
 [submodule "libretrodroid/src/main/cpp/libretro/libretro-common"]
 	path = libretrodroid/src/main/cpp/libretro/libretro-common
-	url = https://github.com/libretro/libretro-common/
+	url = https://github.com/libretro/libretro-common.git
